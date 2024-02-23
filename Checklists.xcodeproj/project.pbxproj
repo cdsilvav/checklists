@@ -57,7 +57,6 @@
 				1CA704CD2B76E15200C6A905 /* Checklist.swift */,
 				1CF7CDD72B56F3D30045C540 /* ChecklistItem.swift */,
 				1C23B00A2B7EB0D2003E6FD3 /* DataModel.swift */,
-				1C23B00D2B81710C003E6FD3 /* View Controllers */,
 			);
 			path = "Data Models";
 			sourceTree = "<group>";
@@ -102,12 +101,13 @@
 		1C47A19C2B20CB1800B639B2 /* Checklists */ = {
 			isa = PBXGroup;
 			children = (
-				1C23B00C2B8170C3003E6FD3 /* Data Models */,
-				1C23B00E2B817170003E6FD3 /* Resources */,
 				1C47A19D2B20CB1800B639B2 /* AppDelegate.swift */,
-				1C23B0112B86A6EA003E6FD3 /* Launch Screen.storyboard */,
+				1C23B00C2B8170C3003E6FD3 /* Data Models */,
 				1C47A1AB2B20CB1B00B639B2 /* Info.plist */,
+				1C23B0112B86A6EA003E6FD3 /* Launch Screen.storyboard */,
+				1C23B00E2B817170003E6FD3 /* Resources */,
 				1C47A19F2B20CB1800B639B2 /* SceneDelegate.swift */,
+				1C23B00D2B81710C003E6FD3 /* View Controllers */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
